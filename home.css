@@ -1,0 +1,48 @@
+body{
+
+
+
+
+
+}
+
+.footer{
+	
+color: black;
+
+text-decoration: none;
+padding: 0;
+margin:0;
+}
+.footer ul{
+
+display: inline-flex;
+
+
+	}
+	.footer ul{
+		float: right;
+		grid-gap: 60px
+	}
+
+
+	.icon{
+		gap: 300px;
+
+
+	}
+	.form_content{
+		
+		text-decoration: none;
+		cursor: pointer;
+		text-shadow: 0px 1px 1px black;
+		margin-top: 10px;
+		padding-left: 450px;
+	
+
+	}
+	.card{
+		box-shadow: 0px 5px 5px 3px black;
+		background-color: rgba(185, 223, 236, 0.76);
+		margin-top: 15px;
+	}
